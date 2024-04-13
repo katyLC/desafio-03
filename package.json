@@ -1,0 +1,12 @@
+{
+  "name": "desafio-3",
+  "version": "1.0.0",
+  "devDependencies": {
+    "cypress": "*",
+    "cypress-sql-server": "^1.0.0",
+    "pg": "^8.11.3"
+  },
+  "dependencies": {
+    "cypress-postgresql": "^1.0.8"
+  }
+}
